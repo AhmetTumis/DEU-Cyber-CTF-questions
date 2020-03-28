@@ -1,3 +1,5 @@
+//this be dead lemme think more
+
 #include <stdio.h>
 #include <string.h>
 int main(){
